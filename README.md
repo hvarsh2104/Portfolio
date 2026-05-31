@@ -2,7 +2,7 @@
 
 My personal portfolio website designed to showcase my skills, experience, and projects as a Software Engineer II specializing in Full Stack development, Azure, and DevOps.
 
-🌍 **Live Site:** [Insert your deployed link here, e.g., https://hvarsh2104.github.io]
+🌍 **Live Site:** [Insert your deployed link here, e.g., [https://hvarsh2104.github.io](https://hvarsh2104.github.io/Portfolio/)]
 
 ## 🛠️ Tech Stack
 This project is built from scratch without any heavy frameworks to ensure maximum performance and zero dependency overhead.
